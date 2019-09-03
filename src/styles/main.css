@@ -1,0 +1,22 @@
+* {
+    /* border: 1px dashed red; */
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: row;
+}
+
+#unique1 {
+    width: 50%;
+    border: 1px solid red;
+}
+
+#unique2 {
+    width: 50%;
+    border: 1px solid blue;
+}
+
+#message {
+    
+}
